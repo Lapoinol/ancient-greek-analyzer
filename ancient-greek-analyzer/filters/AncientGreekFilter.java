@@ -1,7 +1,7 @@
 package org.exist.indexing.lucene.filters;
 
 /*
-Created by Olivier Lapointe, based on GreekLowerCaseFilter created by the team of Apache Lucene.
+Created by Olivier Lapointe, based on the GreekLowerCaseFilter created by the team of Apache Lucene.
 This filter was created for the CGRN project: http://cgrn.ulg.ac.be
 */
 
@@ -333,4 +333,3 @@ public final class AncientGreekFilter extends TokenFilter {
         }
     }
 }
-
